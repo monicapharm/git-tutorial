@@ -4,6 +4,8 @@ Sample repo for git tutorial with '.gitignore'
 
 Another sentence added.
 
-## Header level 2
+## Author
 
-Live preview of changes
+Monica
+Student
+UW
