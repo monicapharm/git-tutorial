@@ -6,6 +6,12 @@ Another sentence added.
 
 ## Author
 
-Monica
-Student
+Monica  
+Student  
 UW
+
+### Some favorite items
+
+Data Science  
+Business Intelligence  
+Software Development
