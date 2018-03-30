@@ -13,5 +13,5 @@ UW
 ### Some favorite items
 
 Data Science  
-Business Intelligence
+Business Intelligence  
 Software Development
